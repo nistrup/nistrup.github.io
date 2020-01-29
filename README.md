@@ -1,8 +1,8 @@
 # My splash page
 
-Created using [Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
+Created using [Stylish Portfolio](https://startbootstrap.com/themes/stylish-portfolio/)
 
-[Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
+[Stylish Portfolio](https://startbootstrap.com/themes/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
 
 ## Status
 
